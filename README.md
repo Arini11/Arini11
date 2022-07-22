@@ -5,7 +5,7 @@ Web & Android Developer
 
 * 🌍  I'm based in Tarragona
 * ✉️  You can contact me at [elarnaumc@gmail.com](mailto:elarnaumc@gmail.com)
-* 🧠  I'm learning Spring & Python
+* 🧠  I'm learning Spring & Angular
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
